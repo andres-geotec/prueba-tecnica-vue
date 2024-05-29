@@ -1,10 +1,10 @@
 <script setup>
-import { RouterLink, RouterView } from 'vue-router'
-import HelloWorld from './components/HelloWorld.vue'
+import ToursView from "@/views/ToursView.vue";
 </script>
 
 <template>
-  <header>
+  <ToursView />
+  <!-- <header>
     <img
       alt="Vue logo"
       class="logo"
@@ -21,9 +21,9 @@ import HelloWorld from './components/HelloWorld.vue'
         <RouterLink to="/about">About</RouterLink>
       </nav>
     </div>
-  </header>
+  </header> -->
 
-  <RouterView />
+  <!-- <RouterView /> -->
 </template>
 
 <style scoped>
