@@ -115,5 +115,5 @@ module.exports = {
    *
    * @see https://prettier.io/docs/en/options.html#single-attribute-per-line
    */
-  singleAttributePerLine: true
+  singleAttributePerLine: true,
 }

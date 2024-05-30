@@ -1,19 +1,22 @@
-[{
-  "title": "Free tour nocturno por Madrid",
-  "calification": 9.5,
-  "opinions": 1.316,
-  "travelers": 12.681,
-  "description": "En este free tour nocturno por Madrid **contemplaremos la iluminación de las principales plazas  monumentos de la capital española**. ¡Una ruta inolvidable por el centro de la ciudad!",
-  "price": 0,
-  "discount": 0,
-  "img": "images/img01.jpg"
-},{
-  "title": "Excursión a Toledo y Segovia",
-  "calification": 9.2,
-  "opinions": 2.215,
-  "travelers": 20.611,
-  "description": "En este tour visitaremos en un día **las dos ciudades más populares desde Madrid: Toledo y Segovia**. Si lo deseáis, podréis ampliar el recorrido hasta **Ávila**, famosa por sus murullas",
-  "price": 55,
-  "discount": 30,
-  "img": "images/img02.jpg"
-}]
+[
+  {
+    "title": "Free tour nocturno por Madrid",
+    "calification": 9.5,
+    "opinions": 1.316,
+    "travelers": 12.681,
+    "description": "En este free tour nocturno por Madrid <b>contemplaremos la iluminación de las principales plazas  monumentos de la capital española</b>. ¡Una ruta inolvidable por el centro de la ciudad!",
+    "price": 0,
+    "discount": 0,
+    "img": "images/img01.jpg"
+  },
+  {
+    "title": "Excursión a Toledo y Segovia",
+    "calification": 9.2,
+    "opinions": 2.215,
+    "travelers": 20.611,
+    "description": "En este tour visitaremos en un día <b>las dos ciudades más populares desde Madrid: Toledo y Segovia</b>. Si lo deseáis, podréis ampliar el recorrido hasta <b>Ávila</b>, famosa por sus murullas",
+    "price": 55,
+    "discount": 30,
+    "img": "images/img02.jpg"
+  }
+]
