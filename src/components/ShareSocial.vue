@@ -17,10 +17,17 @@ const redes = [
 ]
 
 const isOpen = ref(false)
+
+function close() {
+  setTimeout(() => (isOpen.value = false), 1000)
+}
 </script>
 
 <template>
-  <div class="relative">
+  <div
+    class="relative"
+    @mouseleave="close"
+  >
     <button
       type="button"
       class="text-base text-primary"
