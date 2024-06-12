@@ -1,6 +1,6 @@
 {
   "name": "prueba-tecnica-vue",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Prueba técnica desarrollada por [Andrés Martínez González](https://github.com/andres-geotec) en Vue 3.",
   "private": true,
   "scripts": {
