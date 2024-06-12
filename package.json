@@ -1,7 +1,7 @@
 {
   "name": "prueba-tecnica-vue",
   "version": "0.0.0",
-  "description": "",
+  "description": "Prueba técnica desarrollada por [Andrés Martínez González](https://github.com/andres-geotec) en Vue 3.",
   "private": true,
   "scripts": {
     "dev": "vite",
@@ -39,5 +39,13 @@
   },
   "gitHooks": {
     "pre-commit": "lint-staged"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://codigo.conahcyt.mx/sisdai/sisdai-mapas"
+  },
+  "bugs": {
+    "url": "https://codigo.conahcyt.mx/sisdai/sisdai-mapas/issues"
+  },
+  "homepage": "https://codigo.conahcyt.mx/sisdai/sisdai-mapas#readme"
 }

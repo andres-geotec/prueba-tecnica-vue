@@ -3,7 +3,7 @@ import ToursView from '@/views/ToursView.vue'
 </script>
 
 <template>
-  <main>
+  <main class="container mx-auto">
     <ToursView />
   </main>
 </template>
